@@ -1,0 +1,31 @@
+﻿Build started 6/1/2016 09:15:53.
+     1>Project "C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\3D_RollingFriction\3D_RollingFriction.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\3D_RollingFriction\\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(175): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(176): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(177): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(183): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(184): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(185): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(191): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(192): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(193): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(199): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(200): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(201): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(298): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(718): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(887): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(1279): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luna\programming projects\igmtutorial\physics\3d_rollingfriction(sphereplane)\3d_rollingfriction\main.cpp(559): warning C4715: 'overlap' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\Debug\3D_RollingFriction.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\3D_RollingFriction\\lib" opengl32.lib glew32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\Debug\3D_RollingFriction.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\Debug\3D_RollingFriction.lib" /MACHINE:X86 Debug\main.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         3D_RollingFriction.vcxproj -> C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\Debug\3D_RollingFriction.exe
+     1>Done Building Project "C:\Users\Luna\Programming Projects\IGMTutorial\Physics\3D_RollingFriction(spherePlane)\3D_RollingFriction\3D_RollingFriction.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.22
